@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Public Speaking on christiandarvin</title>
+    <link>http://localhost:1313/tags/public-speaking/</link>
+    <description>Recent content in Public Speaking on christiandarvin</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LakbAI: From Algorithms to Advocacy – 2026</title>
+      <link>http://localhost:1313/talks/lakbai_26/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/lakbai_26/</guid>
+      <description>A lightning talk and project exploring the intersection of machine learning and social advocacy.</description>
+    </item>
+  </channel>
+</rss>

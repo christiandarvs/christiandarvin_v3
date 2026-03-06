@@ -1,0 +1,35 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: christiandarvin
+theme: ["PaperMod"]
+params:
+  author: "Christian Elijah Darvin"
+  showReadingTime: true
+  mainSections: []
+
+menu:
+  main:
+    - identifier: cv
+      name: CV
+      url: /files/darvin_resume.pdf
+      weight: 40
+
+    - identifier: talks
+      name: Talks
+      url: /talks/
+      weight: 30
+
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+
+    - identifier: blogs
+      name: Blogs
+      url: /blog/
+      weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

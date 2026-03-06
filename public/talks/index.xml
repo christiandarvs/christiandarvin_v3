@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Talks on christiandarvin</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content in Talks on christiandarvin</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LakbAI: From Algorithms to Advocacy – 2026</title>
+      <link>http://localhost:1313/talks/lakbai_26/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/lakbai_26/</guid>
+      <description>We were required to conduct a seminar for senior high school STEM-ICT students as a final requirement for our Intelligent Systems course.</description>
+    </item>
+    <item>
+      <title>International Conference on Artificial Intelligence (ICAI) – 2026</title>
+      <link>http://localhost:1313/talks/icai_26/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/icai_26/</guid>
+      <description>We were required to present our thesis paper as a final requirement for our Intelligent Systems Course.</description>
+    </item>
+    <item>
+      <title>PyConPH Lightning Talk – 2024</title>
+      <link>http://localhost:1313/talks/pyconph_lt24/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/pyconph_lt24/</guid>
+      <description>A presentation on the core branches of Machine Learning delivered at PyCon Philippines 2024.</description>
+    </item>
+  </channel>
+</rss>
