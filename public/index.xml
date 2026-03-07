@@ -6,14 +6,35 @@
     <description>Recent content in about on christiandarvin</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Computing Machinery and Intelligence</title>
-      <link>http://localhost:1313/blogs/computing-machinery-intelligence/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/computing-machinery-intelligence/</guid>
+      <title>AlgoStep</title>
+      <link>http://localhost:1313/projects/algostep/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/algostep/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>SecurePin</title>
+      <link>http://localhost:1313/projects/securepin/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/securepin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence</title>
+      <link>http://localhost:1313/blogs/dartmouth_ai_proposal/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/dartmouth_ai_proposal/</guid>
+      <description>J. McCarthy, M. L. Minsky, N. Rochester, C.E. Shannon – 1955</description>
+    </item>
+    <item>
+      <title>Computing Machinery and Intelligence</title>
+      <link>http://localhost:1313/blogs/computing_machinery_intelligence/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/computing_machinery_intelligence/</guid>
+      <description>Alan Turing – 1950</description>
     </item>
     <item>
       <title>CretaceousWake</title>

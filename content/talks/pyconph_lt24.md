@@ -6,6 +6,6 @@ description: "A presentation on the core branches of Machine Learning delivered 
 summary: "Exploring supervised, unsupervised, and reinforcement learning as a first-time lightning talk speaker."
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gGj50iHaBmU?si=B0kctdESlgTUL0QD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube HuX5M6A9beA >}}
 
-I presented a lightning talk on the three main branches of machine learning: supervised, unsupervised, and reinforcement learning. Pushing myself to join the lightning talk roster was my first time speaking at a tech conference, marking a significant milestone in my journey from student to contributor.
+<br>I presented a lightning talk on the three main branches of machine learning: supervised, unsupervised, and reinforcement learning. Pushing myself to join the lightning talk roster was my first time speaking at a tech conference, marking a significant milestone in my journey from student to contributor.

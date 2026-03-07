@@ -26,10 +26,12 @@ menu:
 
     - identifier: blogs
       name: Blogs
-      url: /blog/
+      url: /blogs/
       weight: 10
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+

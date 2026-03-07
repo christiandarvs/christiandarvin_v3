@@ -1,5 +1,4 @@
 ---
 title: "Projects"
+description: "My CS Projects"
 ---
-
-My projects.

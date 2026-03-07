@@ -6,8 +6,8 @@ description: "We were required to present our thesis paper as a final requiremen
 summary: "Presenting our initial YOLOv8 accident detection model during the paper and poster presentations at ICAI 2026."
 ---
 
-<center><img src="/files/icai2026.jpg" height="700" draggable="false"></center>
+<center><img src="/files/icai2026.jpg" height="600" draggable="false"></center>
 
-We presented our thesis using an earlier YOLOv8 model trained on 5,465 images. At the time, we thought that would be our final model, but we later upgraded the entire system to YOLOv11m and trained it on an expanded dataset of over 22,000 images.
+We presented our thesis using an earlier YOLOv8 model trained on 5,465 images. At the time, we thought that would be our final model, but we later upgraded the entire system to YOLOv11m and trained it on an expanded dataset of over 23,000 images.
 
 I handled the paper presentation, while my thesis groupmates were responsible for the poster exhibit and attending to the visitors.
