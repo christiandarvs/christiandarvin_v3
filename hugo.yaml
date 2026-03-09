@@ -4,6 +4,7 @@ title: christiandarvin
 theme: ["PaperMod"]
 params:
   author: "Christian Elijah Darvin"
+  description: "Portfolio of Christian Darvin, a DLSU-D Computer Science graduate specializing in Intelligent Systems and shifting focus toward Theoretical Computer Science."
   showReadingTime: true
   mainSections: []
 
