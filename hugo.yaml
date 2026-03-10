@@ -7,12 +7,19 @@ params:
   description: "Portfolio of Christian Darvin, a DLSU-D Computer Science graduate specializing in Intelligent Systems and shifting focus toward Theoretical Computer Science."
   showReadingTime: true
   mainSections: []
+  defaultTheme: light
+  disableThemeToggle: true
 
 menu:
   main:
     - identifier: cv
       name: CV
       url: /files/darvin_resume.pdf
+      weight: 50
+
+    - identifier: reads
+      name: Reads
+      url: /reads/
       weight: 40
 
     - identifier: talks

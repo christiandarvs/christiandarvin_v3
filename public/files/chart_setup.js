@@ -9,8 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         datasets: [
           {
             data: [10, 9, 4, 1],
-            // Updated to pastel colors: Blue, Green, Peach, Pink
-            backgroundColor: ["#AEC6CF", "#B5EAD7", "#FFDAC1", "#FFB7B2"],
+            backgroundColor: ["#4C72B0", "#DD8452", "#55A868", "#C44E52"],
             borderRadius: 4,
             barThickness: 12,
           },
