@@ -2,4 +2,4 @@
 title: "Blogs"
 ---
 
-My technical blog posts.
+Sharing my thoughts and takeaways from groundbreaking research papers.
