@@ -1,9 +1,19 @@
 /* Apply Noto Sans to the main text */
 body {
     font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
 }
 
 /* Ensure headings also use Noto Sans */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans', sans-serif;
 }
+
+/* Fix awkward word spacing and hyphenation on mobile */
+p {
+    text-align: left !important;
+    hyphens: none;
+    -webkit-hyphens: none;
+}
+
+
