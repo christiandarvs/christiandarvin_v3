@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         datasets: [
           {
             data: [10, 9, 4, 1],
-            backgroundColor: ["#4C72B0", "#DD8452", "#55A868", "#C44E52"],
+            backgroundColor: ['#5C78B7', '#D58A55', '#64A060', '#C65B5B'],
             borderRadius: 4,
             barThickness: 12,
           },
