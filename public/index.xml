@@ -4,10 +4,17 @@
     <title>about on christiandarvin</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in about on christiandarvin</description>
-    <generator>Hugo -- 0.158.0</generator>
+    <generator>Hugo -- 0.159.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LakbAI: From Algorithms to Advocacy – 2026</title>
+      <link>http://localhost:1313/talks/lakbai_26/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/lakbai_26/</guid>
+      <description>We were required to conduct a seminar for senior high school STEM-ICT students as a final requirement for our Intelligent Systems course.</description>
+    </item>
     <item>
       <title>AlgoStep</title>
       <link>http://localhost:1313/projects/algostep/</link>
@@ -49,13 +56,6 @@
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/imusafe/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>LakbAI: From Algorithms to Advocacy – 2026</title>
-      <link>http://localhost:1313/talks/lakbai_26/</link>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/lakbai_26/</guid>
-      <description>We were required to conduct a seminar for senior high school STEM-ICT students as a final requirement for our Intelligent Systems course.</description>
     </item>
     <item>
       <title>International Conference on Artificial Intelligence (ICAI) – 2026</title>
